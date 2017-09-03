@@ -1,6 +1,6 @@
 # The Master Thief
 
-   Simple J2ME game where the goal is to invade the house, a dog may try to stop you!
+Simple J2ME game where the goal is to invade the house, a dog may try to stop you!
    
 ![Map](img/map.png)
 
